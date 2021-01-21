@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+    background-color: lightblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-decoration: underline;
+    background-color: blueviolet;
+}
+
+h2 {
+    background-color: rgb(133, 133, 224)
+}
+
+p {
+    color: black;
+}
